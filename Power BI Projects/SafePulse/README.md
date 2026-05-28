@@ -60,9 +60,10 @@ This repository includes a Power BI dashboard (`SAFE_PULSE_POWER_BI_ANALYSIS.pbi
 ## Repository Structure
 
 ```
-safepulse/
-├── SAFE_PULSE_POWER_BI_ANALYSIS.pbix   # Power BI dashboard file
-├── SafePulse_Incidence_Analysis_Report.pdf  # Full analysis report
+SafePulse/
+├── SAFE PULSE POWER BI ANALYSIS.pbix   # Power BI dashboard file
+├── SafePulse Dashboard.pdf              # Dashboard screenshots
+├── SafePulse Incidence Analysis Report.pdf  # Full analysis report
 └── README.md
 ```
 
