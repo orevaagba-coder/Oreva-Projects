@@ -28,8 +28,9 @@ International Breweries Analysis
     03_brand_performance.sql
     04_regional_and_sales_insights.sql
     International_Breweries_Analysis.pbix
+    dashboard_screenshot.png
 	international_breweries.csv
-    dashboard_screenshot.pdf
+	sql_query_results.pdf
 ```
 
 ## Business Questions Answered
@@ -100,5 +101,6 @@ Full SQL for each question is available in the numbered SQL files in this folder
 ## How to Explore This Project
 
 1. Review the numbered SQL files in this folder to see the queries and logic behind each business question.
-2. Open International_Breweries_Analysis.pbix in Power BI Desktop to interact with the dashboard directly (filter by year, hover for details, and so on).
-3. The raw dataset, international_breweries.csv, is included directly in this folder if you would like to reproduce the analysis.
+2. Check query_outputs.pdf for screenshots of each query alongside its actual result, useful if you want to see the output without running the queries yourself.
+3. Open International_Breweries_Analysis.pbix in Power BI Desktop to interact with the dashboard directly (filter by year, hover for details, and so on).
+4. The raw dataset, international_breweries.csv, is included directly in this folder if you would like to reproduce the analysis.
