@@ -23,16 +23,13 @@ Brewery management needed a clearer picture of which markets, brands, and sales 
 ```
 International Breweries Analysis
     README.md
-    data
-        international_breweries.csv
-    sql
-        01_table_creation_and_cleaning.sql
-        02_profitability_analysis.sql
-        03_brand_performance.sql
-        04_regional_and_sales_insights.sql
-    powerbi
-        International_Breweries_Analysis.pbix
-        dashboard_screenshot.png
+    01_table_creation_and_cleaning.sql
+    02_profitability_analysis.sql
+    03_brand_performance.sql
+    04_regional_and_sales_insights.sql
+    International_Breweries_Analysis.pbix
+	international_breweries.csv
+    dashboard_screenshot.pdf
 ```
 
 ## Business Questions Answered
@@ -60,7 +57,7 @@ International Breweries Analysis
 * Top performing sales representative overall and by brand and country
 * Ranking of all sales reps by total quantity sold
 
-Full SQL for each question is available in the sql folder.
+Full SQL for each question is available in the numbered SQL files in this folder.
 
 ## Key Insights
 
@@ -97,11 +94,11 @@ Full SQL for each question is available in the sql folder.
 
 ## Dashboard Preview
 
-<img width="1434" height="808" alt="image" src="https://github.com/user-attachments/assets/a459faf7-10b1-47bf-ab2c-cdca0b6bd044" />
+<img width="1434" height="808" alt="image" src="https://github.com/user-attachments/assets/5233f9cb-e679-48b1-b938-ba2f6504abe4" />
 
 
 ## How to Explore This Project
 
-1. Review the SQL scripts in the sql folder to see the queries and logic behind each business question.
+1. Review the numbered SQL files in this folder to see the queries and logic behind each business question.
 2. Open International_Breweries_Analysis.pbix in Power BI Desktop to interact with the dashboard directly (filter by year, hover for details, and so on).
-3. The raw dataset is available in the data folder if you would like to reproduce the analysis.
+3. The raw dataset, international_breweries.csv, is included directly in this folder if you would like to reproduce the analysis.
