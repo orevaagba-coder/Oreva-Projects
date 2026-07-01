@@ -2,6 +2,12 @@
 
 > **A Power BI analytics portfolio project** analysing 3 years of trucking & freight operations (2022–2024) across 150 drivers, 200 customers, and $263M in revenue.
 
+## 🌐 Live Interactive Dashboard
+
+👉 **View the Power BI Dashboard here:**  
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTg4YWM3YjgtMjczOS00MjgwLTk1YjgtNDM4NmExN2NjZjRjIiwidCI6IjNiYmQ3N2E0LTJhNjItNDkzNS04MmY1LTEwMjMwOWJmMDY2MCJ9)
+> Interactive report with filters, slicers, drill-through, and cross-filtering enabled.
+
 ---
 
 ## 📋 Table of Contents
